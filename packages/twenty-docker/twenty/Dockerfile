@@ -51,12 +51,16 @@ COPY ./packages/twenty-shared /app/packages/twenty-shared
 COPY ./packages/twenty-client-sdk /app/packages/twenty-client-sdk
 COPY ./packages/twenty-server /app/packages/twenty-server
 
-RUN npx nx run twenty-server:lingui:extract && \
-    npx nx run twenty-server:lingui:compile && \
-    npx nx run twenty-emails:lingui:extract && \
-    npx nx run twenty-emails:lingui:compile
+# K + AI OS: --parallel=1 for the same 8 GiB reason as the stage
+# serialization above. On a cold cache `nx` has to build every dependency
+# project and runs them in parallel by default; together they blow the build
+# container's limit. Cached builds hid this because most tasks were cache hits.
+RUN npx nx run twenty-server:lingui:extract --parallel=1 && \
+    npx nx run twenty-server:lingui:compile --parallel=1 && \
+    npx nx run twenty-emails:lingui:extract --parallel=1 && \
+    npx nx run twenty-emails:lingui:compile --parallel=1
 
-RUN npx nx run twenty-server:build
+RUN npx nx run twenty-server:build --parallel=1
 
 # Clean server build output (type declarations and compiled tests are not needed at runtime;
 # source maps are kept because twenty-infra extracts them from the image for Sentry uploads)
@@ -78,15 +82,15 @@ COPY ./packages/twenty-ui /app/packages/twenty-ui
 COPY ./packages/twenty-shared /app/packages/twenty-shared
 COPY ./packages/twenty-sdk /app/packages/twenty-sdk
 COPY ./packages/twenty-client-sdk /app/packages/twenty-client-sdk
-RUN npx nx run twenty-front:lingui:extract && \
-    npx nx run twenty-front:lingui:compile
+RUN npx nx run twenty-front:lingui:extract --parallel=1 && \
+    npx nx run twenty-front:lingui:compile --parallel=1
 # To skip the memory-intensive frontend build, pre-build on the host:
 #   npx nx build twenty-front
 # The check below will use packages/twenty-front/build/ if it already exists.
 RUN if [ -d /app/packages/twenty-front/build ]; then \
       echo "Using pre-built frontend from host"; \
     else \
-      NODE_OPTIONS="--max-old-space-size=6144" npx nx build twenty-front; \
+      NODE_OPTIONS="--max-old-space-size=6144" npx nx build twenty-front --parallel=1; \
     fi
 
 
