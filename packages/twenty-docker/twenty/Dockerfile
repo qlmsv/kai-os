@@ -24,6 +24,13 @@ FROM node:24.18.0-alpine3.23@sha256:595398b0081eacda8e1c4c5b97b76cd1020e4d58a8eb
 
 WORKDIR /app
 
+# K + AI OS: Render's build container is capped at 8 GiB. BuildKit would run
+# this stage's `yarn workspaces focus` in parallel with the one in front-deps,
+# and the two resolvers together exceed the cap (OOM ~60s into the build).
+# Copying a throwaway file from front-deps makes that stage a dependency, so
+# the two installs run one after the other instead.
+COPY --from=front-deps /app/package.json /tmp/serialize-front-deps.json
+
 COPY ./package.json ./yarn.lock ./.yarnrc.yml ./tsconfig.base.json ./nx.json /app/
 COPY ./.yarn/releases /app/.yarn/releases
 COPY ./.yarn/patches /app/.yarn/patches
@@ -60,6 +67,10 @@ RUN yarn workspaces focus --production twenty-emails twenty-shared twenty-client
 
 
 FROM front-deps AS twenty-front-build
+
+# K + AI OS: same 8 GiB reason as in server-deps above. The Vite build and the
+# NestJS build are both memory-hungry, so keep them off the same clock.
+COPY --from=twenty-server-build /app/package.json /tmp/serialize-server-build.json
 
 COPY ./packages/twenty-front /app/packages/twenty-front
 COPY ./packages/twenty-front-component-renderer /app/packages/twenty-front-component-renderer
