@@ -627,7 +627,7 @@ msgstr "Объект с таким именем уже существует."
 #. js-lingui-id: bZq8rL
 #: src/engine/workspace-manager/twenty-standard-application/utils/object-metadata/create-standard-flat-object-metadata.util.ts
 msgid "An opportunity"
-msgstr "Возможность"
+msgstr "Сделка"
 
 #. js-lingui-id: Tstlpf
 #: src/engine/core-modules/billing/billing.exception.ts
@@ -903,7 +903,7 @@ msgstr "Вложения, связанные с панелью управлен�
 #. js-lingui-id: kw0mLu
 #: src/engine/workspace-manager/twenty-standard-application/utils/field-metadata/compute-opportunity-standard-flat-field-metadata.util.ts
 msgid "Attachments linked to the opportunity"
-msgstr "Вложения, связанные с возможностью"
+msgstr "Вложения, связанные со сделкой"
 
 #. js-lingui-id: 83l3Yd
 #: src/engine/workspace-manager/twenty-standard-application/utils/field-metadata/compute-workflow-standard-flat-field-metadata.util.ts
@@ -4699,7 +4699,7 @@ msgstr "Участники списка"
 #. js-lingui-id: LeFv/R
 #: src/engine/workspace-manager/twenty-standard-application/utils/field-metadata/compute-person-standard-flat-field-metadata.util.ts
 msgid "List of opportunities for which that person is the point of contact"
-msgstr "Список возможностей, для которых этот контакт является контактным лицом"
+msgstr "Список сделок, в которых этот человек — контактное лицо"
 
 #. js-lingui-id: 0P1EpZ
 #: src/engine/workspace-manager/twenty-standard-application/utils/field-metadata/compute-message-list-standard-flat-field-metadata.util.ts
@@ -5419,7 +5419,7 @@ msgstr "Заметки, связанные с контактом"
 #. js-lingui-id: 0bi/Eh
 #: src/engine/workspace-manager/twenty-standard-application/utils/field-metadata/compute-opportunity-standard-flat-field-metadata.util.ts
 msgid "Notes tied to the opportunity"
-msgstr "Заметки, связанные с возможностью"
+msgstr "Заметки, связанные со сделкой"
 
 #. js-lingui-id: /mH0jo
 #: src/engine/workspace-manager/twenty-standard-application/utils/field-metadata/compute-note-target-standard-flat-field-metadata.util.ts
@@ -5704,22 +5704,22 @@ msgstr "Оператор \"{operand}\" не поддерживается для 
 #: src/engine/workspace-manager/twenty-standard-application/utils/field-metadata/compute-person-standard-flat-field-metadata.util.ts
 #: src/engine/workspace-manager/twenty-standard-application/utils/object-metadata/create-standard-flat-object-metadata.util.ts
 msgid "Opportunities"
-msgstr "Возможности"
+msgstr "Сделки"
 
 #. js-lingui-id: vTpjG9
 #: src/engine/metadata-modules/page-layout-widget/constants/standard-page-layout-widget-titles.ts
 msgid "Opportunities by Owner"
-msgstr "Возможности по владельцам"
+msgstr "Сделки по ответственным"
 
 #. js-lingui-id: 5QgKbT
 #: src/engine/workspace-manager/twenty-standard-application/utils/field-metadata/compute-company-standard-flat-field-metadata.util.ts
 msgid "Opportunities linked to the company."
-msgstr "Возможности, связанные с компанией."
+msgstr "Сделки, связанные с компанией."
 
 #. js-lingui-id: zvf8hK
 #: src/engine/workspace-manager/twenty-standard-application/utils/field-metadata/compute-workspace-member-standard-flat-field-metadata.util.ts
 msgid "Opportunities owned by the workspace member"
-msgstr "Возможности, принадлежащие участнику рабочего пространства"
+msgstr "Сделки, за которые отвечает участник рабочего пространства"
 
 #. js-lingui-id: SV/iis
 #: src/engine/workspace-manager/twenty-standard-application/utils/field-metadata/compute-attachment-standard-flat-field-metadata.util.ts
@@ -5728,42 +5728,42 @@ msgstr "Возможности, принадлежащие участнику р
 #: src/engine/workspace-manager/twenty-standard-application/utils/field-metadata/compute-timeline-activity-standard-flat-field-metadata.util.ts
 #: src/engine/workspace-manager/twenty-standard-application/utils/object-metadata/create-standard-flat-object-metadata.util.ts
 msgid "Opportunity"
-msgstr "Возможность"
+msgstr "Сделка"
 
 #. js-lingui-id: WnMlKn
 #: src/engine/workspace-manager/twenty-standard-application/utils/field-metadata/compute-opportunity-standard-flat-field-metadata.util.ts
 msgid "Opportunity amount"
-msgstr "Сумма возможности"
+msgstr "Сумма сделки"
 
 #. js-lingui-id: aj3fnv
 #: src/engine/workspace-manager/twenty-standard-application/utils/field-metadata/compute-opportunity-standard-flat-field-metadata.util.ts
 msgid "Opportunity close date"
-msgstr "Дата закрытия возможности"
+msgstr "Дата закрытия сделки"
 
 #. js-lingui-id: 3NYczb
 #: src/engine/workspace-manager/twenty-standard-application/utils/field-metadata/compute-opportunity-standard-flat-field-metadata.util.ts
 msgid "Opportunity company"
-msgstr "Компания возможности"
+msgstr "Компания по сделке"
 
 #. js-lingui-id: r3rEzW
 #: src/engine/workspace-manager/twenty-standard-application/utils/field-metadata/compute-opportunity-standard-flat-field-metadata.util.ts
 msgid "Opportunity owner"
-msgstr "Владелец возможности"
+msgstr "Ответственный за сделку"
 
 #. js-lingui-id: as45IN
 #: src/engine/workspace-manager/twenty-standard-application/utils/field-metadata/compute-opportunity-standard-flat-field-metadata.util.ts
 msgid "Opportunity point of contact"
-msgstr "Контактное лицо возможности"
+msgstr "Контактное лицо по сделке"
 
 #. js-lingui-id: Q1dzBp
 #: src/engine/workspace-manager/twenty-standard-application/utils/field-metadata/compute-opportunity-standard-flat-field-metadata.util.ts
 msgid "Opportunity record position"
-msgstr "Позиция записи возможности"
+msgstr "Позиция записи сделки"
 
 #. js-lingui-id: 5ugYS3
 #: src/engine/workspace-manager/twenty-standard-application/utils/field-metadata/compute-opportunity-standard-flat-field-metadata.util.ts
 msgid "Opportunity stage"
-msgstr "Стадия возможности"
+msgstr "Стадия сделки"
 
 #. js-lingui-id: 2mFkfl
 #: src/engine/metadata-modules/flat-field-metadata/validators/utils/validate-enum-flat-field-metadata.util.ts
@@ -5867,7 +5867,7 @@ msgstr "Имена выходных полей должны использова
 #. js-lingui-id: 6ua+9g
 #: src/engine/workspace-manager/twenty-standard-application/utils/field-metadata/compute-workspace-member-standard-flat-field-metadata.util.ts
 msgid "Owned opportunities"
-msgstr "Принадлежащие возможности"
+msgstr "Курируемые сделки"
 
 #. js-lingui-id: LtI9AS
 #: src/engine/metadata-modules/page-layout-widget/constants/standard-page-layout-widget-titles.ts
@@ -6916,7 +6916,7 @@ msgstr "Запланировано"
 #. js-lingui-id: cOh+MI
 #: src/engine/workspace-manager/twenty-standard-application/utils/field-metadata/compute-opportunity-standard-flat-field-metadata.util.ts
 msgid "Screening"
-msgstr "Скрининг"
+msgstr "Квалификация"
 
 #. js-lingui-id: eKi1df
 #: src/engine/core-modules/sdk-client/exceptions/sdk-client.exception.ts
@@ -7498,7 +7498,7 @@ msgstr "Задачи, связанные с контактом"
 #. js-lingui-id: 1TfX9U
 #: src/engine/workspace-manager/twenty-standard-application/utils/field-metadata/compute-opportunity-standard-flat-field-metadata.util.ts
 msgid "Tasks tied to the opportunity"
-msgstr "Задачи, связанные с возможностью"
+msgstr "Задачи, связанные со сделкой"
 
 #. js-lingui-id: V9OANc
 #: src/engine/workspace-manager/twenty-standard-application/utils/field-metadata/compute-task-target-standard-flat-field-metadata.util.ts
@@ -7806,7 +7806,7 @@ msgstr "Объект, для которого вы пытаетесь устан
 #. js-lingui-id: DbWmKZ
 #: src/engine/workspace-manager/twenty-standard-application/utils/field-metadata/compute-opportunity-standard-flat-field-metadata.util.ts
 msgid "The opportunity name"
-msgstr "Название возможности"
+msgstr "Название сделки"
 
 #. js-lingui-id: D/w+3o
 #: src/engine/core-modules/application/application-registration/application-registration.exception.ts
@@ -8470,7 +8470,7 @@ msgstr "Действия на временной шкале, связанные 
 #. js-lingui-id: p6feIz
 #: src/engine/workspace-manager/twenty-standard-application/utils/field-metadata/compute-opportunity-standard-flat-field-metadata.util.ts
 msgid "Timeline Activities linked to the opportunity."
-msgstr "Действия на временной шкале, связанные с возможностью."
+msgstr "Действия на временной шкале, связанные со сделкой."
 
 #. js-lingui-id: yvPwuF
 #: src/engine/workspace-manager/twenty-standard-application/utils/field-metadata/compute-workflow-run-standard-flat-field-metadata.util.ts
