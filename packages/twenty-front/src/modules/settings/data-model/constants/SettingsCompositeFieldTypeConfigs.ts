@@ -179,14 +179,14 @@ export const SETTINGS_COMPOSITE_FIELD_TYPE_CONFIGS = {
     ],
     exampleValues: [
       {
-        primaryLinkUrl: 'twenty.com',
+        primaryLinkUrl: 'kai-it.pro',
         primaryLinkLabel: '',
-        secondaryLinks: [{ url: 'twenty.com', label: 'Twenty' }],
+        secondaryLinks: [{ url: 'kai-it.pro', label: 'K + AI OS' }],
       },
       {
-        primaryLinkUrl: 'github.com/twentyhq/twenty',
-        primaryLinkLabel: 'Twenty Repo',
-        secondaryLinks: [{ url: 'twenty.com', label: '' }],
+        primaryLinkUrl: 'github.com/qlmsv/kai-os',
+        primaryLinkLabel: 'Репозиторий',
+        secondaryLinks: [{ url: 'kai-it.pro', label: '' }],
       },
       {
         primaryLinkUrl: 'react.dev',

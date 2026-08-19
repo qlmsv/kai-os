@@ -93,7 +93,7 @@ const createWelcomeRichText = ({
           content: [
             {
               type: 'text',
-              text: 'Welcome to your workspace',
+              text: 'Добро пожаловать в K + AI OS',
               styles: {},
             },
           ],
@@ -121,13 +121,13 @@ const createWelcomeRichText = ({
           content: [
             {
               type: 'text',
-              text: 'You can edit this dashboard by clicking the ',
+              text: 'Этот дашборд можно настроить под себя — нажмите кнопку ',
               styles: {},
             },
-            { type: 'text', text: 'Edit', styles: { code: true } },
+            { type: 'text', text: 'Редактировать', styles: { code: true } },
             {
               type: 'text',
-              text: ' button in the top-right corner to add your own charts or customize this one.',
+              text: ' в правом верхнем углу, чтобы добавить свои графики или изменить этот.',
               styles: {},
             },
           ],
@@ -183,23 +183,23 @@ const createWelcomeRichText = ({
           content: [
             {
               type: 'text',
-              text: 'If you have any issues, you can check ',
+              text: 'Если возникнут вопросы, загляните в ',
               styles: {},
             },
             {
               type: 'link',
-              href: 'https://docs.twenty.com/getting-started/introduction',
+              href: 'https://github.com/qlmsv/kai-os/blob/kai-os/docs/KAI_OS.md',
               content: [
                 {
                   type: 'text',
-                  text: 'our documentation',
+                  text: 'документацию',
                   styles: {},
                 },
               ],
             },
             {
               type: 'text',
-              text: ' or contact us through the Support section in Settings.',
+              text: ' или напишите нам через раздел «Поддержка» в настройках.',
               styles: {},
             },
           ],
@@ -228,7 +228,7 @@ const createWelcomeRichText = ({
       layoutName: 'myFirstDashboard',
       tabTitle: 'tab1',
       widgetName: 'welcomeRichText',
-      title: 'Untitled Rich Text',
+      title: 'Текстовый блок',
       type: WidgetType.STANDALONE_RICH_TEXT,
       gridPosition: { row: 0, column: 0, rowSpan: 6, columnSpan: 6 },
       position: {
@@ -265,7 +265,7 @@ const createDealsByCompany = ({
       layoutName: 'myFirstDashboard',
       tabTitle: 'tab1',
       widgetName: 'dealsByCompany',
-      title: 'Deals by Company',
+      title: 'Сделки по компаниям',
       type: WidgetType.GRAPH,
       gridPosition: { row: 0, column: 6, rowSpan: 6, columnSpan: 6 },
       position: {
@@ -330,7 +330,7 @@ const createPipelineValueByStage = ({
       layoutName: 'myFirstDashboard',
       tabTitle: 'tab1',
       widgetName: 'pipelineValueByStage',
-      title: 'Pipeline Value by Stage',
+      title: 'Сумма воронки по этапам',
       type: WidgetType.GRAPH,
       gridPosition: { row: 6, column: 0, rowSpan: 6, columnSpan: 6 },
       position: {
@@ -408,7 +408,7 @@ const createRevenueTimeline = ({
       layoutName: 'myFirstDashboard',
       tabTitle: 'tab1',
       widgetName: 'revenueTimeline',
-      title: 'Revenue Timeline',
+      title: 'Динамика выручки',
       type: WidgetType.GRAPH,
       gridPosition: { row: 6, column: 6, rowSpan: 6, columnSpan: 6 },
       position: {
@@ -475,7 +475,7 @@ const createOpportunitiesByOwner = ({
       layoutName: 'myFirstDashboard',
       tabTitle: 'tab1',
       widgetName: 'opportunitiesByOwner',
-      title: 'Opportunities by Owner',
+      title: 'Сделки по ответственным',
       type: WidgetType.GRAPH,
       gridPosition: { row: 12, column: 0, rowSpan: 6, columnSpan: 6 },
       position: {
@@ -552,7 +552,7 @@ const createStockMarketIframe = ({
       layoutName: 'myFirstDashboard',
       tabTitle: 'tab1',
       widgetName: 'stockMarketIframe',
-      title: 'Stock market (Iframe)',
+      title: 'Фондовый рынок',
       type: WidgetType.IFRAME,
       gridPosition: { row: 12, column: 6, rowSpan: 8, columnSpan: 6 },
       position: {
@@ -602,7 +602,7 @@ const createDealsCreatedThisMonth = ({
       layoutName: 'myFirstDashboard',
       tabTitle: 'tab1',
       widgetName: 'dealsCreatedThisMonth',
-      title: 'Deals created this month',
+      title: 'Сделок создано за месяц',
       type: WidgetType.GRAPH,
       gridPosition: { row: 18, column: 0, rowSpan: 2, columnSpan: 3 },
       position: {
@@ -671,7 +671,7 @@ const createDealValueCreatedThisMonth = ({
       layoutName: 'myFirstDashboard',
       tabTitle: 'tab1',
       widgetName: 'dealValueCreatedThisMonth',
-      title: 'Deal value created this month',
+      title: 'Сумма сделок за месяц',
       type: WidgetType.GRAPH,
       gridPosition: { row: 18, column: 3, rowSpan: 2, columnSpan: 3 },
       position: {
