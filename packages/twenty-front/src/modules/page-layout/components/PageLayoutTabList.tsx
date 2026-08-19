@@ -44,10 +44,10 @@ import { SidePanelPages } from 'twenty-shared/types';
 import { isDefined } from 'twenty-shared/utils';
 import { themeCssVariables } from 'twenty-ui/theme-constants';
 import {
-import { translateSeededLabel } from '~/utils/i18n/translateSeededLabel';
   PageLayoutTabLayoutMode,
   PageLayoutType,
 } from '~/generated-metadata/graphql';
+import { translateSeededLabel } from '~/utils/i18n/translateSeededLabel';
 
 const StyledContainer = styled.div`
   box-sizing: border-box;
