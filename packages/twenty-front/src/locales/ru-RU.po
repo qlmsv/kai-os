@@ -21651,3 +21651,55 @@ msgstr "Ваше рабочее пространство будет отключ
 #: src/modules/settings/mcp-and-apis/utils/buildMcpSetupCategories.tsx
 msgid "Zed"
 msgstr "Zed"
+
+#: src/modules/views/utils/resolveViewNamePlaceholders.ts
+msgid "All {0}"
+msgstr "Все {0}"
+
+#: src/modules/command-menu-item/display/utils/translateStandardCommandMenuItemLabel.ts
+msgid "Navigate to next {0}"
+msgstr "Следующая запись: {0}"
+
+#: src/modules/command-menu-item/display/utils/translateStandardCommandMenuItemLabel.ts
+msgid "Create new {0}"
+msgstr "Создать: {0}"
+
+#: src/modules/command-menu-item/display/utils/translateStandardCommandMenuItemLabel.ts
+msgid "Delete {0}"
+msgstr "Удалить: {0}"
+
+#: src/modules/command-menu-item/display/utils/translateStandardCommandMenuItemLabel.ts
+msgid "Restore {0}"
+msgstr "Восстановить: {0}"
+
+#: src/modules/command-menu-item/display/utils/translateStandardCommandMenuItemLabel.ts
+msgid "Permanently destroy {0}"
+msgstr "Удалить безвозвратно: {0}"
+
+#: src/modules/command-menu-item/display/utils/translateStandardCommandMenuItemLabel.ts
+msgid "Export {0}"
+msgstr "Экспортировать: {0}"
+
+#: src/modules/command-menu-item/display/utils/translateStandardCommandMenuItemLabel.ts
+msgid "Update {0}"
+msgstr "Изменить: {0}"
+
+#: src/modules/command-menu-item/display/utils/translateStandardCommandMenuItemLabel.ts
+msgid "Merge {0}"
+msgstr "Объединить: {0}"
+
+#: src/modules/command-menu-item/display/utils/translateStandardCommandMenuItemLabel.ts
+msgid "Import {0}"
+msgstr "Импортировать: {0}"
+
+#: src/modules/command-menu-item/display/utils/translateStandardCommandMenuItemLabel.ts
+msgid "See deleted {0}"
+msgstr "Показать удалённые: {0}"
+
+#: src/modules/command-menu-item/display/utils/translateStandardCommandMenuItemLabel.ts
+msgid "Hide deleted {0}"
+msgstr "Скрыть удалённые: {0}"
+
+#: src/modules/command-menu-item/display/utils/translateStandardCommandMenuItemLabel.ts
+msgid "Deleted {0}"
+msgstr "Удалённые: {0}"
