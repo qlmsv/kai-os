@@ -34,7 +34,7 @@ Intent gate: purely informational dashboard questions (e.g. "what is a dashboard
 
 ## Database vs HTTP Tools
 
-- Use database tools (find_many_*, find_one_*, create_one_*, create_many_*, update_one_*, update_many_*, upsert_many_*, delete_one_*, delete_many_*) for ALL Twenty CRM data operations
+- Use database tools (find_many_*, find_one_*, create_one_*, create_many_*, update_one_*, update_many_*, upsert_many_*, delete_one_*, delete_many_*) for ALL K + AI OS data operations
 - NEVER guess or construct API URLs — always use the appropriate database tool
 - The \`http_request\` tool is ONLY for external third-party APIs (not for Twenty's own data)
 - If you need to look up a record by ID, use find_one_*; to search with filters, use find_many_*

@@ -13,10 +13,10 @@ export const buildMcpServerCard = ({
     'https://static.modelcontextprotocol.io/schemas/v1/server-card.schema.json',
   name: 'com.twenty/twenty',
   version,
-  title: 'Twenty CRM',
+  title: 'K + AI OS',
   description:
-    'Read and write your Twenty CRM data - companies, people, opportunities, tasks, notes and any custom objects - from AI assistants. Tools are discovered at runtime and scoped to the authenticated workspace.',
-  websiteUrl: 'https://twenty.com',
+    'Read and write your K + AI OS data - companies, people, opportunities, tasks, notes and any custom objects - from AI assistants. Tools are discovered at runtime and scoped to the authenticated workspace.',
+  websiteUrl: 'https://os.kai-it.pro',
   repository: {
     url: 'https://github.com/twentyhq/twenty',
     source: 'github',

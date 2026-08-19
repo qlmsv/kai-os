@@ -197,7 +197,7 @@ export const buildWorkspaceMemberStandardFlatFieldMetadatas = ({
       isSystem: true,
       isNullable: false,
       isUIEditable: false,
-      defaultValue: "'en'",
+      defaultValue: "'ru-RU'",
     },
     standardObjectMetadataRelatedEntityIds,
     dependencyFlatEntityMaps,

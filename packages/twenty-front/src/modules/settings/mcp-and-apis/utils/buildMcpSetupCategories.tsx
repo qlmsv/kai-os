@@ -46,7 +46,7 @@ export const buildMcpSetupCategories = ({
       {
         title: t`ChatGPT`,
         badge: t`Official app`,
-        description: t`Open Twenty's official ChatGPT integration for your workspace.`,
+        description: t`Open the official ChatGPT integration for your workspace.`,
         ctaLabel: t`Open`,
         href: MCP_SETUP.chatGptTwentyAppUrl,
         logo: <McpClientLogo src={OpenAiLogo} invertInDarkMode />,
@@ -73,7 +73,7 @@ export const buildMcpSetupCategories = ({
       {
         title: t`Cursor`,
         badge: t`Install link`,
-        description: t`Open Cursor's MCP installer with the Twenty remote server config.`,
+        description: t`Open Cursor's MCP installer with the remote server config.`,
         ctaLabel: t`Install`,
         href: buildCursorInstallLink(mcpServerUrl),
         logo: <McpClientLogo src={CursorLogo} invertInDarkMode />,
@@ -110,7 +110,7 @@ export const buildMcpSetupCategories = ({
       {
         title: t`LM Studio`,
         badge: t`Install link`,
-        description: t`Add the Twenty remote server with LM Studio's install link.`,
+        description: t`Add the remote server with LM Studio's install link.`,
         ctaLabel: t`Install`,
         href: buildLmStudioInstallLink(mcpServerUrl),
         logo: <McpClientLogo src={LmStudioLogo} invertInDarkMode />,
@@ -142,7 +142,7 @@ export const buildMcpSetupCategories = ({
       {
         title: t`Raycast`,
         badge: t`Settings`,
-        description: t`Add the Twenty MCP server from Raycast's MCP commands or settings.`,
+        description: t`Add the MCP server from Raycast's MCP commands or settings.`,
         ctaLabel: t`Docs`,
         href: MCP_SETUP.clientDocsUrls.raycast,
         logo: <McpClientLogo src={RaycastLogo} />,
