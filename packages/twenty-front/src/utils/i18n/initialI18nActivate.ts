@@ -8,7 +8,10 @@ export const initialI18nActivate = () => {
   const storageLocale = fromStorage('locale');
   const navigatorLocale = fromNavigator();
 
-  let locale: keyof typeof APP_LOCALES = APP_LOCALES.en;
+  // K + AI OS is a Russian-language product, so Russian is the fallback when
+  // nothing else identifies the visitor. An explicit choice — the ?locale
+  // parameter, a stored preference, or the browser language — still wins.
+  let locale: keyof typeof APP_LOCALES = APP_LOCALES['ru-RU'];
 
   const normalizedUrlLocale = isDefined(urlLocale)
     ? normalizeLocale(urlLocale)
