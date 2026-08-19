@@ -6348,7 +6348,7 @@ msgstr "Удалено"
 #: src/modules/ai/constants/crud-tool-operation-verbs.constant.ts
 #: src/modules/ai/constants/crud-tool-operation-verbs.constant.ts
 msgid "Deleted {objectLabel}"
-msgstr "Удалено {objectLabel}"
+msgstr "Удалённые: {objectLabel}"
 
 #. js-lingui-id: oAhMKF
 #: src/modules/blocknote-editor/blocks/MentionInlineContent.tsx
@@ -21657,52 +21657,44 @@ msgid "All {0}"
 msgstr "Все {0}"
 
 #: src/modules/command-menu-item/display/utils/translateStandardCommandMenuItemLabel.ts
-msgid "Navigate to next {0}"
-msgstr "Следующая запись: {0}"
+msgid "Navigate to next {objectLabel}"
+msgstr "Следующая запись: {objectLabel}"
 
 #: src/modules/command-menu-item/display/utils/translateStandardCommandMenuItemLabel.ts
-msgid "Create new {0}"
-msgstr "Создать: {0}"
+msgid "Create new {objectLabel}"
+msgstr "Создать: {objectLabel}"
 
 #: src/modules/command-menu-item/display/utils/translateStandardCommandMenuItemLabel.ts
-msgid "Delete {0}"
-msgstr "Удалить: {0}"
+msgid "Delete {objectLabel}"
+msgstr "Удалить: {objectLabel}"
 
 #: src/modules/command-menu-item/display/utils/translateStandardCommandMenuItemLabel.ts
-msgid "Restore {0}"
-msgstr "Восстановить: {0}"
+msgid "Permanently destroy {objectLabel}"
+msgstr "Удалить безвозвратно: {objectLabel}"
 
 #: src/modules/command-menu-item/display/utils/translateStandardCommandMenuItemLabel.ts
-msgid "Permanently destroy {0}"
-msgstr "Удалить безвозвратно: {0}"
+msgid "Export {objectLabel}"
+msgstr "Экспортировать: {objectLabel}"
 
 #: src/modules/command-menu-item/display/utils/translateStandardCommandMenuItemLabel.ts
-msgid "Export {0}"
-msgstr "Экспортировать: {0}"
+msgid "Update {objectLabel}"
+msgstr "Изменить: {objectLabel}"
 
 #: src/modules/command-menu-item/display/utils/translateStandardCommandMenuItemLabel.ts
-msgid "Update {0}"
-msgstr "Изменить: {0}"
+msgid "Merge {objectLabel}"
+msgstr "Объединить: {objectLabel}"
 
 #: src/modules/command-menu-item/display/utils/translateStandardCommandMenuItemLabel.ts
-msgid "Merge {0}"
-msgstr "Объединить: {0}"
+msgid "Import {objectLabel}"
+msgstr "Импортировать: {objectLabel}"
 
 #: src/modules/command-menu-item/display/utils/translateStandardCommandMenuItemLabel.ts
-msgid "Import {0}"
-msgstr "Импортировать: {0}"
+msgid "See deleted {objectLabel}"
+msgstr "Показать удалённые: {objectLabel}"
 
 #: src/modules/command-menu-item/display/utils/translateStandardCommandMenuItemLabel.ts
-msgid "See deleted {0}"
-msgstr "Показать удалённые: {0}"
-
-#: src/modules/command-menu-item/display/utils/translateStandardCommandMenuItemLabel.ts
-msgid "Hide deleted {0}"
-msgstr "Скрыть удалённые: {0}"
-
-#: src/modules/command-menu-item/display/utils/translateStandardCommandMenuItemLabel.ts
-msgid "Deleted {0}"
-msgstr "Удалённые: {0}"
+msgid "Hide deleted {objectLabel}"
+msgstr "Скрыть удалённые: {objectLabel}"
 
 #: src/utils/i18n/translateSeededLabel.ts
 msgid "Call Recordings"
