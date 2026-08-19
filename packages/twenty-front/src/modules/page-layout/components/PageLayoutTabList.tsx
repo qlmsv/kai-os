@@ -44,6 +44,7 @@ import { SidePanelPages } from 'twenty-shared/types';
 import { isDefined } from 'twenty-shared/utils';
 import { themeCssVariables } from 'twenty-ui/theme-constants';
 import {
+import { translateSeededLabel } from '~/utils/i18n/translateSeededLabel';
   PageLayoutTabLayoutMode,
   PageLayoutType,
 } from '~/generated-metadata/graphql';
@@ -105,7 +106,7 @@ export const PageLayoutTabList = ({
 
   const tabsWithIcons: SingleTabProps[] = tabs.map((tab) => ({
     id: tab.id,
-    title: tab.title,
+    title: translateSeededLabel(tab.title),
     Icon: isDefined(tab.icon) ? getIcon(tab.icon) : undefined,
   }));
 

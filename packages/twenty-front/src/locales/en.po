@@ -21700,3 +21700,39 @@ msgstr "Hide deleted {0}"
 #: src/modules/command-menu-item/display/utils/translateStandardCommandMenuItemLabel.ts
 msgid "Deleted {0}"
 msgstr "Deleted {0}"
+
+#: src/utils/i18n/translateSeededLabel.ts
+msgid "Call Recordings"
+msgstr "Call Recordings"
+
+#: src/utils/i18n/translateSeededLabel.ts
+msgid "Company"
+msgstr "Company"
+
+#: src/utils/i18n/translateSeededLabel.ts
+msgid "Lists"
+msgstr "Lists"
+
+#: src/utils/i18n/translateSeededLabel.ts
+msgid "Opportunities"
+msgstr "Opportunities"
+
+#: src/utils/i18n/translateSeededLabel.ts
+msgid "Participants"
+msgstr "Participants"
+
+#: src/utils/i18n/translateSeededLabel.ts
+msgid "People"
+msgstr "People"
+
+#: src/utils/i18n/translateSeededLabel.ts
+msgid "Point of Contact"
+msgstr "Point of Contact"
+
+#: src/utils/i18n/translateSeededLabel.ts
+msgid "Tab 1"
+msgstr "Tab 1"
+
+#: src/utils/i18n/translateSeededLabel.ts
+msgid "Workflow"
+msgstr "Workflow"

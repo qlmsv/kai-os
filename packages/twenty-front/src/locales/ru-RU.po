@@ -21703,3 +21703,39 @@ msgstr "Скрыть удалённые: {0}"
 #: src/modules/command-menu-item/display/utils/translateStandardCommandMenuItemLabel.ts
 msgid "Deleted {0}"
 msgstr "Удалённые: {0}"
+
+#: src/utils/i18n/translateSeededLabel.ts
+msgid "Call Recordings"
+msgstr "Записи звонков"
+
+#: src/utils/i18n/translateSeededLabel.ts
+msgid "Company"
+msgstr "Компания"
+
+#: src/utils/i18n/translateSeededLabel.ts
+msgid "Lists"
+msgstr "Списки"
+
+#: src/utils/i18n/translateSeededLabel.ts
+msgid "Opportunities"
+msgstr "Сделки"
+
+#: src/utils/i18n/translateSeededLabel.ts
+msgid "Participants"
+msgstr "Участники"
+
+#: src/utils/i18n/translateSeededLabel.ts
+msgid "People"
+msgstr "Люди"
+
+#: src/utils/i18n/translateSeededLabel.ts
+msgid "Point of Contact"
+msgstr "Контактное лицо"
+
+#: src/utils/i18n/translateSeededLabel.ts
+msgid "Tab 1"
+msgstr "Вкладка 1"
+
+#: src/utils/i18n/translateSeededLabel.ts
+msgid "Workflow"
+msgstr "Рабочий процесс"
