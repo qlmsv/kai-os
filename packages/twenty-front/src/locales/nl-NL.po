@@ -1479,7 +1479,7 @@ msgstr "Voeg de Twenty MCP-server toe via de Augment Code-instellingen."
 
 #. js-lingui-id: l+NzAk
 #: src/modules/settings/mcp-and-apis/utils/buildMcpSetupCategories.tsx
-msgid "Add the Twenty MCP server from Raycast's MCP commands or settings."
+msgid "Add the MCP server from Raycast's MCP commands or settings."
 msgstr "Voeg de Twenty MCP-server toe via de MCP-opdrachten of -instellingen van Raycast."
 
 #. js-lingui-id: j6G/yI
@@ -1494,7 +1494,7 @@ msgstr "Voeg de Twenty MCP-server toe aan uw LibreChat-configuratiebestand."
 
 #. js-lingui-id: K0DXoj
 #: src/modules/settings/mcp-and-apis/utils/buildMcpSetupCategories.tsx
-msgid "Add the Twenty remote server with LM Studio's install link."
+msgid "Add the remote server with LM Studio's install link."
 msgstr "Voeg de Twenty externe server toe met de installatielink van LM Studio."
 
 #. js-lingui-id: 5+ttxv
@@ -13933,7 +13933,7 @@ msgstr "Open Claude met de naam van de Twenty-connector en MCP-URL vooraf ingevu
 
 #. js-lingui-id: +n2jpB
 #: src/modules/settings/mcp-and-apis/utils/buildMcpSetupCategories.tsx
-msgid "Open Cursor's MCP installer with the Twenty remote server config."
+msgid "Open Cursor's MCP installer with the remote server config."
 msgstr "Open de MCP-installer van Cursor met de Twenty-configuratie voor externe server."
 
 #. js-lingui-id: pZZH4Q
@@ -13985,7 +13985,7 @@ msgstr "Open Replit met de Twenty-configuratie voor externe server."
 
 #. js-lingui-id: sBd/cl
 #: src/modules/settings/mcp-and-apis/utils/buildMcpSetupCategories.tsx
-msgid "Open Twenty's official ChatGPT integration for your workspace."
+msgid "Open the official ChatGPT integration for your workspace."
 msgstr "Open de officiële ChatGPT-integratie van Twenty voor uw werkruimte."
 
 #. js-lingui-id: OV5wZZ

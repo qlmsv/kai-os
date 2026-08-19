@@ -1479,7 +1479,7 @@ msgstr "Додај Twenty MCP сервер из подешавања Augment Cod
 
 #. js-lingui-id: l+NzAk
 #: src/modules/settings/mcp-and-apis/utils/buildMcpSetupCategories.tsx
-msgid "Add the Twenty MCP server from Raycast's MCP commands or settings."
+msgid "Add the MCP server from Raycast's MCP commands or settings."
 msgstr "Додај Twenty MCP сервер из Raycast MCP команди или подешавања."
 
 #. js-lingui-id: j6G/yI
@@ -1494,7 +1494,7 @@ msgstr "Додај Twenty MCP сервер у своју LibreChat конфиг�
 
 #. js-lingui-id: K0DXoj
 #: src/modules/settings/mcp-and-apis/utils/buildMcpSetupCategories.tsx
-msgid "Add the Twenty remote server with LM Studio's install link."
+msgid "Add the remote server with LM Studio's install link."
 msgstr "Додај Twenty удаљени сервер помоћу LM Studio линка за инсталацију."
 
 #. js-lingui-id: 5+ttxv
@@ -13933,7 +13933,7 @@ msgstr "Отворите Claude са унапред попуњеним Twenty и
 
 #. js-lingui-id: +n2jpB
 #: src/modules/settings/mcp-and-apis/utils/buildMcpSetupCategories.tsx
-msgid "Open Cursor's MCP installer with the Twenty remote server config."
+msgid "Open Cursor's MCP installer with the remote server config."
 msgstr "Отворите Cursor MCP инсталатор са Twenty конфигурацијом удаљеног сервера."
 
 #. js-lingui-id: pZZH4Q
@@ -13985,7 +13985,7 @@ msgstr "Отворите Replit са Twenty конфигурацијом уда�
 
 #. js-lingui-id: sBd/cl
 #: src/modules/settings/mcp-and-apis/utils/buildMcpSetupCategories.tsx
-msgid "Open Twenty's official ChatGPT integration for your workspace."
+msgid "Open the official ChatGPT integration for your workspace."
 msgstr "Отворите званичну Twenty ChatGPT интеграцију за свој радни простор."
 
 #. js-lingui-id: OV5wZZ

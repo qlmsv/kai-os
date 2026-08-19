@@ -1479,7 +1479,7 @@ msgstr "在 Augment Code 設定中新增 Twenty MCP 伺服器。"
 
 #. js-lingui-id: l+NzAk
 #: src/modules/settings/mcp-and-apis/utils/buildMcpSetupCategories.tsx
-msgid "Add the Twenty MCP server from Raycast's MCP commands or settings."
+msgid "Add the MCP server from Raycast's MCP commands or settings."
 msgstr "透過 Raycast 的 MCP 指令或設定新增 Twenty MCP 伺服器。"
 
 #. js-lingui-id: j6G/yI
@@ -1494,7 +1494,7 @@ msgstr "將 Twenty MCP 伺服器新增到您的 LibreChat 設定檔。"
 
 #. js-lingui-id: K0DXoj
 #: src/modules/settings/mcp-and-apis/utils/buildMcpSetupCategories.tsx
-msgid "Add the Twenty remote server with LM Studio's install link."
+msgid "Add the remote server with LM Studio's install link."
 msgstr "使用 LM Studio 的安裝連結新增 Twenty 遠端伺服器。"
 
 #. js-lingui-id: 5+ttxv
@@ -13910,7 +13910,7 @@ msgstr "開啟 Claude，並預先填入 Twenty 連接器名稱與 MCP URL。"
 
 #. js-lingui-id: +n2jpB
 #: src/modules/settings/mcp-and-apis/utils/buildMcpSetupCategories.tsx
-msgid "Open Cursor's MCP installer with the Twenty remote server config."
+msgid "Open Cursor's MCP installer with the remote server config."
 msgstr "使用 Twenty 的遠端伺服器設定開啟 Cursor 的 MCP 安裝程式。"
 
 #. js-lingui-id: pZZH4Q
@@ -13962,7 +13962,7 @@ msgstr "使用 Twenty 的遠端伺服器設定開啟 Replit。"
 
 #. js-lingui-id: sBd/cl
 #: src/modules/settings/mcp-and-apis/utils/buildMcpSetupCategories.tsx
-msgid "Open Twenty's official ChatGPT integration for your workspace."
+msgid "Open the official ChatGPT integration for your workspace."
 msgstr "為您的工作區開啟 Twenty 官方的 ChatGPT 整合。"
 
 #. js-lingui-id: OV5wZZ

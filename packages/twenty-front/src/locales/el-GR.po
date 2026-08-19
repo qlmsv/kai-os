@@ -1479,7 +1479,7 @@ msgstr "Προσθέστε τον διακομιστή Twenty MCP από τις 
 
 #. js-lingui-id: l+NzAk
 #: src/modules/settings/mcp-and-apis/utils/buildMcpSetupCategories.tsx
-msgid "Add the Twenty MCP server from Raycast's MCP commands or settings."
+msgid "Add the MCP server from Raycast's MCP commands or settings."
 msgstr "Προσθέστε τον διακομιστή Twenty MCP από τις εντολές ή τις ρυθμίσεις MCP του Raycast."
 
 #. js-lingui-id: j6G/yI
@@ -1494,7 +1494,7 @@ msgstr "Προσθέστε τον διακομιστή Twenty MCP στο αρχ�
 
 #. js-lingui-id: K0DXoj
 #: src/modules/settings/mcp-and-apis/utils/buildMcpSetupCategories.tsx
-msgid "Add the Twenty remote server with LM Studio's install link."
+msgid "Add the remote server with LM Studio's install link."
 msgstr "Προσθέστε τον απομακρυσμένο διακομιστή Twenty με τον σύνδεσμο εγκατάστασης του LM Studio."
 
 #. js-lingui-id: 5+ttxv
@@ -13933,7 +13933,7 @@ msgstr "Ανοίξτε το Claude με προ-συμπληρωμένο το ό�
 
 #. js-lingui-id: +n2jpB
 #: src/modules/settings/mcp-and-apis/utils/buildMcpSetupCategories.tsx
-msgid "Open Cursor's MCP installer with the Twenty remote server config."
+msgid "Open Cursor's MCP installer with the remote server config."
 msgstr "Ανοίξτε το πρόγραμμα εγκατάστασης MCP του Cursor με τη ρύθμιση απομακρυσμένου διακομιστή Twenty."
 
 #. js-lingui-id: pZZH4Q
@@ -13985,7 +13985,7 @@ msgstr "Ανοίξτε το Replit με τη ρύθμιση απομακρυσμ
 
 #. js-lingui-id: sBd/cl
 #: src/modules/settings/mcp-and-apis/utils/buildMcpSetupCategories.tsx
-msgid "Open Twenty's official ChatGPT integration for your workspace."
+msgid "Open the official ChatGPT integration for your workspace."
 msgstr "Ανοίξτε την επίσημη ενσωμάτωση ChatGPT του Twenty για τον χώρο εργασίας σας."
 
 #. js-lingui-id: OV5wZZ

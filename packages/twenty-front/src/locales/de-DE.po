@@ -1479,7 +1479,7 @@ msgstr "Fügen Sie den Twenty-MCP-Server in den Augment-Code-Einstellungen hinzu
 
 #. js-lingui-id: l+NzAk
 #: src/modules/settings/mcp-and-apis/utils/buildMcpSetupCategories.tsx
-msgid "Add the Twenty MCP server from Raycast's MCP commands or settings."
+msgid "Add the MCP server from Raycast's MCP commands or settings."
 msgstr "Fügen Sie den Twenty-MCP-Server über die MCP-Befehle oder Einstellungen von Raycast hinzu."
 
 #. js-lingui-id: j6G/yI
@@ -1494,7 +1494,7 @@ msgstr "Fügen Sie den Twenty-MCP-Server zu Ihrer LibreChat-Konfigurationsdatei 
 
 #. js-lingui-id: K0DXoj
 #: src/modules/settings/mcp-and-apis/utils/buildMcpSetupCategories.tsx
-msgid "Add the Twenty remote server with LM Studio's install link."
+msgid "Add the remote server with LM Studio's install link."
 msgstr "Fügen Sie den Twenty-Remote-Server mit dem Installationslink von LM Studio hinzu."
 
 #. js-lingui-id: 5+ttxv
@@ -13933,7 +13933,7 @@ msgstr "Öffnen Sie Claude mit vorausgefülltem Twenty-Connector-Namen und MCP-U
 
 #. js-lingui-id: +n2jpB
 #: src/modules/settings/mcp-and-apis/utils/buildMcpSetupCategories.tsx
-msgid "Open Cursor's MCP installer with the Twenty remote server config."
+msgid "Open Cursor's MCP installer with the remote server config."
 msgstr "Öffnen Sie den MCP-Installer von Cursor mit der Twenty-Remote-Server-Konfiguration."
 
 #. js-lingui-id: pZZH4Q
@@ -13985,7 +13985,7 @@ msgstr "Öffnen Sie Replit mit der Twenty-Remote-Server-Konfiguration."
 
 #. js-lingui-id: sBd/cl
 #: src/modules/settings/mcp-and-apis/utils/buildMcpSetupCategories.tsx
-msgid "Open Twenty's official ChatGPT integration for your workspace."
+msgid "Open the official ChatGPT integration for your workspace."
 msgstr "Öffnen Sie die offizielle ChatGPT-Integration von Twenty für Ihren Arbeitsbereich."
 
 #. js-lingui-id: OV5wZZ

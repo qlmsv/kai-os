@@ -1079,7 +1079,7 @@ msgstr "Accions"
 #. js-lingui-id: mQKK3r
 #: src/modules/settings/roles/role-permissions/permission-flags/components/SettingsRolePermissionsToolSection.tsx
 msgid "Actions permissions"
-msgstr "Permisos d 27Accions"
+msgstr "Permisos d27Accions"
 
 #. js-lingui-id: N4ZcCd
 #: src/modules/settings/roles/role-permissions/object-level-permissions/object-form/components/SettingsRolePermissionsObjectLevelObjectFormObjectLevel.tsx
@@ -1479,7 +1479,7 @@ msgstr "Afegeix el servidor Twenty MCP des de la configuració d'Augment Code."
 
 #. js-lingui-id: l+NzAk
 #: src/modules/settings/mcp-and-apis/utils/buildMcpSetupCategories.tsx
-msgid "Add the Twenty MCP server from Raycast's MCP commands or settings."
+msgid "Add the MCP server from Raycast's MCP commands or settings."
 msgstr "Afegeix el servidor Twenty MCP des de les ordres MCP o la configuració de Raycast."
 
 #. js-lingui-id: j6G/yI
@@ -1494,7 +1494,7 @@ msgstr "Afegeix el servidor Twenty MCP al teu fitxer de configuració de LibreCh
 
 #. js-lingui-id: K0DXoj
 #: src/modules/settings/mcp-and-apis/utils/buildMcpSetupCategories.tsx
-msgid "Add the Twenty remote server with LM Studio's install link."
+msgid "Add the remote server with LM Studio's install link."
 msgstr "Afegeix el servidor remot Twenty amb l'enllaç d'instal·lació de LM Studio."
 
 #. js-lingui-id: 5+ttxv
@@ -2085,7 +2085,7 @@ msgstr "Permet l'inici de sessió amb correu electrònic i contrasenya per a usu
 #. js-lingui-id: +XmkDf
 #: src/modules/settings/roles/role-permissions/permission-flags/hooks/useActionRolePermissionFlagConfig.ts
 msgid "Allow exporting data to CSV files"
-msgstr "Permetre l 27exportaci f3 de dades a fitxers CSV"
+msgstr "Permetre l27exportacif3 de dades a fitxers CSV"
 
 #. js-lingui-id: q/pgyN
 #: src/modules/settings/security/components/SettingsSecurityAuthBypassOptionsList.tsx
@@ -13933,7 +13933,7 @@ msgstr "Obre Claude amb el nom del connector Twenty i la URL MCP preomplerts."
 
 #. js-lingui-id: +n2jpB
 #: src/modules/settings/mcp-and-apis/utils/buildMcpSetupCategories.tsx
-msgid "Open Cursor's MCP installer with the Twenty remote server config."
+msgid "Open Cursor's MCP installer with the remote server config."
 msgstr "Obre l'instal·lador MCP de Cursor amb la configuració del servidor remot Twenty."
 
 #. js-lingui-id: pZZH4Q
@@ -13985,7 +13985,7 @@ msgstr "Obre Replit amb la configuració del servidor remot Twenty."
 
 #. js-lingui-id: sBd/cl
 #: src/modules/settings/mcp-and-apis/utils/buildMcpSetupCategories.tsx
-msgid "Open Twenty's official ChatGPT integration for your workspace."
+msgid "Open the official ChatGPT integration for your workspace."
 msgstr "Obre la integració oficial de ChatGPT de Twenty per al teu espai de treball."
 
 #. js-lingui-id: OV5wZZ

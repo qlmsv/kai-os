@@ -1459,7 +1459,7 @@ msgstr "Ավելացրեք Twenty MCP սպասարկիչը Augment Code-ի կա�
 
 #. js-lingui-id: l+NzAk
 #: src/modules/settings/mcp-and-apis/utils/buildMcpSetupCategories.tsx
-msgid "Add the Twenty MCP server from Raycast's MCP commands or settings."
+msgid "Add the MCP server from Raycast's MCP commands or settings."
 msgstr "Ավելացրեք Twenty MCP սպասարկիչը Raycast-ի MCP հրամաններից կամ կարգավորումներից։"
 
 #. js-lingui-id: j6G/yI
@@ -1474,7 +1474,7 @@ msgstr "Ավելացրեք Twenty MCP սպասարկիչը ձեր LibreChat-ի �
 
 #. js-lingui-id: K0DXoj
 #: src/modules/settings/mcp-and-apis/utils/buildMcpSetupCategories.tsx
-msgid "Add the Twenty remote server with LM Studio's install link."
+msgid "Add the remote server with LM Studio's install link."
 msgstr "Ավելացրեք Twenty հեռավար սպասարկիչը LM Studio-ի install հղումով։"
 
 #. js-lingui-id: 5+ttxv
@@ -13160,7 +13160,7 @@ msgstr "Բացեք Claude-ը՝ Twenty միացուցիչի անունը և MCP U
 
 #. js-lingui-id: +n2jpB
 #: src/modules/settings/mcp-and-apis/utils/buildMcpSetupCategories.tsx
-msgid "Open Cursor's MCP installer with the Twenty remote server config."
+msgid "Open Cursor's MCP installer with the remote server config."
 msgstr "Բացեք Cursor-ի MCP installer-ը՝ Twenty հեռավար սպասարկչի կազմաձևով։"
 
 #. js-lingui-id: pZZH4Q
@@ -13201,7 +13201,7 @@ msgstr "Բացեք Replit-ը՝ Twenty հեռավար սպասարկչի կազմ
 
 #. js-lingui-id: sBd/cl
 #: src/modules/settings/mcp-and-apis/utils/buildMcpSetupCategories.tsx
-msgid "Open Twenty's official ChatGPT integration for your workspace."
+msgid "Open the official ChatGPT integration for your workspace."
 msgstr "Բացեք Twenty-ի պաշտոնական ChatGPT ինտեգրումը ձեր աշխատանքային տարածքի համար։"
 
 #. js-lingui-id: OV5wZZ

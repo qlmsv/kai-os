@@ -1479,7 +1479,7 @@ msgstr "Legg til Twenty MCP-serveren fra Augment Code-innstillingene."
 
 #. js-lingui-id: l+NzAk
 #: src/modules/settings/mcp-and-apis/utils/buildMcpSetupCategories.tsx
-msgid "Add the Twenty MCP server from Raycast's MCP commands or settings."
+msgid "Add the MCP server from Raycast's MCP commands or settings."
 msgstr "Legg til Twenty MCP-serveren fra Raycasts MCP-kommandoer eller -innstillinger."
 
 #. js-lingui-id: j6G/yI
@@ -1494,7 +1494,7 @@ msgstr "Legg til Twenty MCP-serveren i LibreChat-konfigurasjonsfilen din."
 
 #. js-lingui-id: K0DXoj
 #: src/modules/settings/mcp-and-apis/utils/buildMcpSetupCategories.tsx
-msgid "Add the Twenty remote server with LM Studio's install link."
+msgid "Add the remote server with LM Studio's install link."
 msgstr "Legg til Twenty-fjernserveren med LM Studios installeringslenke."
 
 #. js-lingui-id: 5+ttxv
@@ -13933,7 +13933,7 @@ msgstr "Åpne Claude med Twenty-koblingsnavn og MCP-URL forhåndsutfylt."
 
 #. js-lingui-id: +n2jpB
 #: src/modules/settings/mcp-and-apis/utils/buildMcpSetupCategories.tsx
-msgid "Open Cursor's MCP installer with the Twenty remote server config."
+msgid "Open Cursor's MCP installer with the remote server config."
 msgstr "Åpne Cursors MCP-installer med Twenty-fjernserverkonfigurasjonen."
 
 #. js-lingui-id: pZZH4Q
@@ -13985,7 +13985,7 @@ msgstr "Åpne Replit med Twenty-fjernserverkonfigurasjonen."
 
 #. js-lingui-id: sBd/cl
 #: src/modules/settings/mcp-and-apis/utils/buildMcpSetupCategories.tsx
-msgid "Open Twenty's official ChatGPT integration for your workspace."
+msgid "Open the official ChatGPT integration for your workspace."
 msgstr "Åpne Twentys offisielle ChatGPT-integrasjon for arbeidsområdet ditt."
 
 #. js-lingui-id: OV5wZZ
@@ -15016,7 +15016,7 @@ msgstr ""
 #. js-lingui-id: Z9go8W
 #: src/modules/settings/data-model/object-details/components/tabs/SettingsObjectIndexesSection.tsx
 msgid "Queries that relied on it will fall back to a sequential scan. You can recreate it later."
-msgstr "Sp f8rringer som var avhengige av den, vil falle tilbake til sekvensiell skanning. Du kan opprette den p e5 nytt senere."
+msgstr "Spf8rringer som var avhengige av den, vil falle tilbake til sekvensiell skanning. Du kan opprette den pe5 nytt senere."
 
 #. js-lingui-id: /IUt/5
 #: src/modules/settings/admin-panel/health-status/components/SettingsAdminWorkerHealthStatus.tsx

@@ -1479,7 +1479,7 @@ msgstr "Adja hozzá a Twenty MCP szervert az Augment Code beállításaiban."
 
 #. js-lingui-id: l+NzAk
 #: src/modules/settings/mcp-and-apis/utils/buildMcpSetupCategories.tsx
-msgid "Add the Twenty MCP server from Raycast's MCP commands or settings."
+msgid "Add the MCP server from Raycast's MCP commands or settings."
 msgstr "Adja hozzá a Twenty MCP szervert a Raycast MCP parancsaiból vagy beállításaiból."
 
 #. js-lingui-id: j6G/yI
@@ -1494,7 +1494,7 @@ msgstr "Adja hozzá a Twenty MCP szervert a LibreChat konfigurációs fájljáho
 
 #. js-lingui-id: K0DXoj
 #: src/modules/settings/mcp-and-apis/utils/buildMcpSetupCategories.tsx
-msgid "Add the Twenty remote server with LM Studio's install link."
+msgid "Add the remote server with LM Studio's install link."
 msgstr "Adja hozzá a Twenty távoli szervert az LM Studio telepítési hivatkozásával."
 
 #. js-lingui-id: 5+ttxv
@@ -13933,7 +13933,7 @@ msgstr "Nyissa meg a Claude-ot a Twenty connector nevével és az MCP URL-lel el
 
 #. js-lingui-id: +n2jpB
 #: src/modules/settings/mcp-and-apis/utils/buildMcpSetupCategories.tsx
-msgid "Open Cursor's MCP installer with the Twenty remote server config."
+msgid "Open Cursor's MCP installer with the remote server config."
 msgstr "Nyissa meg a Cursor MCP telepítőjét a Twenty távoli szerver konfigurációjával."
 
 #. js-lingui-id: pZZH4Q
@@ -13985,7 +13985,7 @@ msgstr "Nyissa meg a Replitet a Twenty távoli szerver konfigurációjával."
 
 #. js-lingui-id: sBd/cl
 #: src/modules/settings/mcp-and-apis/utils/buildMcpSetupCategories.tsx
-msgid "Open Twenty's official ChatGPT integration for your workspace."
+msgid "Open the official ChatGPT integration for your workspace."
 msgstr "Nyissa meg a Twenty hivatalos ChatGPT integrációját a munkaterületéhez."
 
 #. js-lingui-id: OV5wZZ

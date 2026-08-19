@@ -1479,7 +1479,7 @@ msgstr "Adăugați serverul Twenty MCP din setările Augment Code."
 
 #. js-lingui-id: l+NzAk
 #: src/modules/settings/mcp-and-apis/utils/buildMcpSetupCategories.tsx
-msgid "Add the Twenty MCP server from Raycast's MCP commands or settings."
+msgid "Add the MCP server from Raycast's MCP commands or settings."
 msgstr "Adăugați serverul Twenty MCP din comenzile sau setările MCP ale Raycast."
 
 #. js-lingui-id: j6G/yI
@@ -1494,7 +1494,7 @@ msgstr "Adăugați serverul Twenty MCP în fișierul dvs. de configurare LibreCh
 
 #. js-lingui-id: K0DXoj
 #: src/modules/settings/mcp-and-apis/utils/buildMcpSetupCategories.tsx
-msgid "Add the Twenty remote server with LM Studio's install link."
+msgid "Add the remote server with LM Studio's install link."
 msgstr "Adăugați serverul Twenty la distanță cu linkul de instalare al LM Studio."
 
 #. js-lingui-id: 5+ttxv
@@ -13933,7 +13933,7 @@ msgstr "Deschideți Claude cu numele conectorului Twenty și URL-ul MCP precompl
 
 #. js-lingui-id: +n2jpB
 #: src/modules/settings/mcp-and-apis/utils/buildMcpSetupCategories.tsx
-msgid "Open Cursor's MCP installer with the Twenty remote server config."
+msgid "Open Cursor's MCP installer with the remote server config."
 msgstr "Deschideți programul de instalare MCP al Cursor cu configurația serverului Twenty la distanță."
 
 #. js-lingui-id: pZZH4Q
@@ -13985,7 +13985,7 @@ msgstr "Deschideți Replit cu configurația serverului Twenty la distanță."
 
 #. js-lingui-id: sBd/cl
 #: src/modules/settings/mcp-and-apis/utils/buildMcpSetupCategories.tsx
-msgid "Open Twenty's official ChatGPT integration for your workspace."
+msgid "Open the official ChatGPT integration for your workspace."
 msgstr "Deschideți integrarea oficială Twenty cu ChatGPT pentru spațiul dvs. de lucru."
 
 #. js-lingui-id: OV5wZZ

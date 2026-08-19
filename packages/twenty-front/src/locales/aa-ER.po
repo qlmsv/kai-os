@@ -1459,7 +1459,7 @@ msgstr "crwdns132951:0crwdne132951:0"
 
 #. js-lingui-id: l+NzAk
 #: src/modules/settings/mcp-and-apis/utils/buildMcpSetupCategories.tsx
-msgid "Add the Twenty MCP server from Raycast's MCP commands or settings."
+msgid "Add the MCP server from Raycast's MCP commands or settings."
 msgstr "crwdns132953:0crwdne132953:0"
 
 #. js-lingui-id: j6G/yI
@@ -1474,7 +1474,7 @@ msgstr "crwdns132957:0crwdne132957:0"
 
 #. js-lingui-id: K0DXoj
 #: src/modules/settings/mcp-and-apis/utils/buildMcpSetupCategories.tsx
-msgid "Add the Twenty remote server with LM Studio's install link."
+msgid "Add the remote server with LM Studio's install link."
 msgstr "crwdns132959:0crwdne132959:0"
 
 #. js-lingui-id: 5+ttxv
@@ -13146,7 +13146,7 @@ msgstr "crwdns133573:0crwdne133573:0"
 
 #. js-lingui-id: +n2jpB
 #: src/modules/settings/mcp-and-apis/utils/buildMcpSetupCategories.tsx
-msgid "Open Cursor's MCP installer with the Twenty remote server config."
+msgid "Open Cursor's MCP installer with the remote server config."
 msgstr "crwdns133575:0crwdne133575:0"
 
 #. js-lingui-id: pZZH4Q
@@ -13187,7 +13187,7 @@ msgstr "crwdns133577:0crwdne133577:0"
 
 #. js-lingui-id: sBd/cl
 #: src/modules/settings/mcp-and-apis/utils/buildMcpSetupCategories.tsx
-msgid "Open Twenty's official ChatGPT integration for your workspace."
+msgid "Open the official ChatGPT integration for your workspace."
 msgstr "crwdns133579:0crwdne133579:0"
 
 #. js-lingui-id: OV5wZZ

@@ -8857,7 +8857,7 @@ msgstr "תצורת תפקיד בסביבת העבודה של המשתמש לא �
 #: src/engine/metadata-modules/flat-field-metadata/validators/utils/validate-enum-flat-field-metadata.util.ts
 #: src/engine/metadata-modules/flat-field-metadata/validators/utils/validate-enum-flat-field-metadata.util.ts
 msgid "Value must be in UPPER_CASE and follow snake_case \"{sanitizedValue}\""
-msgstr " תַאִים לִהְיוֹת בְּאוֹתִיּוֹת רִשׁוֹנוֹת   ובפורמט snake_case \"{sanitizedValue}\""
+msgstr "תַאִים לִהְיוֹת בְּאוֹתִיּוֹת רִשׁוֹנוֹת  ובפורמט snake_case \"{sanitizedValue}\""
 
 #. js-lingui-id: NzhR7p
 #: src/engine/core-modules/impersonation/constants/impersonation-denial-by-reason.constant.ts
