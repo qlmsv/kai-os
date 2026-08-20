@@ -21731,3 +21731,23 @@ msgstr "Вкладка 1"
 #: src/utils/i18n/translateSeededLabel.ts
 msgid "Workflow"
 msgstr "Рабочий процесс"
+
+#: src/utils/i18n/translateSeededLabel.ts
+msgid "Assigned to Me"
+msgstr "Назначено мне"
+
+#: src/utils/i18n/translateSeededLabel.ts
+msgid "By Stage"
+msgstr "По стадиям"
+
+#: src/utils/i18n/translateSeededLabel.ts
+msgid "By Status"
+msgstr "По статусам"
+
+#: src/utils/i18n/translateSeededLabel.ts
+msgid "Runs"
+msgstr "Запуски"
+
+#: src/utils/i18n/translateSeededLabel.ts
+msgid "Versions"
+msgstr "Версии"

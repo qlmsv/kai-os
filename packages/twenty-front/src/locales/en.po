@@ -21728,3 +21728,23 @@ msgstr "Tab 1"
 #: src/utils/i18n/translateSeededLabel.ts
 msgid "Workflow"
 msgstr "Workflow"
+
+#: src/utils/i18n/translateSeededLabel.ts
+msgid "Assigned to Me"
+msgstr "Assigned to Me"
+
+#: src/utils/i18n/translateSeededLabel.ts
+msgid "By Stage"
+msgstr "By Stage"
+
+#: src/utils/i18n/translateSeededLabel.ts
+msgid "By Status"
+msgstr "By Status"
+
+#: src/utils/i18n/translateSeededLabel.ts
+msgid "Runs"
+msgstr "Runs"
+
+#: src/utils/i18n/translateSeededLabel.ts
+msgid "Versions"
+msgstr "Versions"

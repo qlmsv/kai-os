@@ -3,12 +3,16 @@ import { msg } from '@lingui/core/macro';
 import { isDefined } from 'twenty-shared/utils';
 
 // The engine seeds these labels in English and stores them in the database —
-// page layout tab titles (page-layout-config utils) and navigation folder
-// names (STANDARD_NAVIGATION_MENU_ITEMS) — so lingui cannot discover them by
+// page layout tab titles (page-layout-config utils), standard view names
+// (compute-standard-*-views utils) and navigation folder names
+// (STANDARD_NAVIGATION_MENU_ITEMS) — so lingui cannot discover them by
 // scanning the client, and a Russian workspace rendered English tabs like
 // "Opportunities". Declaring them here is what puts them in the catalogs at
 // all: extract runs with --clean and drops any message missing from the source.
 const SEEDED_LABEL_MESSAGES: Record<string, MessageDescriptor> = {
+  'Assigned to Me': msg`Assigned to Me`,
+  'By Stage': msg`By Stage`,
+  'By Status': msg`By Status`,
   'Call Recordings': msg`Call Recordings`,
   Company: msg`Company`,
   List: msg`List`,
@@ -20,7 +24,9 @@ const SEEDED_LABEL_MESSAGES: Record<string, MessageDescriptor> = {
   People: msg`People`,
   'Point of Contact': msg`Point of Contact`,
   Recipients: msg`Recipients`,
+  Runs: msg`Runs`,
   'Tab 1': msg`Tab 1`,
+  Versions: msg`Versions`,
   Workflow: msg`Workflow`,
   Workflows: msg`Workflows`,
 };
