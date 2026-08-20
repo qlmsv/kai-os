@@ -19,6 +19,10 @@ export const translateStandardCommandMenuItemLabel = (
       return t`Navigate to next ${objectLabel}`;
     case 'Create new ${capitalize(objectMetadataItem.labelSingular)}':
       return t`Create new ${objectLabel}`;
+    // shortLabel of the same command — this is the pinned "+" button on an
+    // index page, which showed "New Рабочий процесс" with the verb in English
+    case 'New ${capitalize(objectMetadataItem.labelSingular)}':
+      return t`New ${objectLabel}`;
     case 'Delete ${capitalize(objectMetadataLabel)}':
       return t`Delete ${objectLabel}`;
     case 'Restore ${capitalize(objectMetadataLabel)}':

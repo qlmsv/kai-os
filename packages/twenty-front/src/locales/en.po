@@ -21748,3 +21748,7 @@ msgstr "Runs"
 #: src/utils/i18n/translateSeededLabel.ts
 msgid "Versions"
 msgstr "Versions"
+
+#: src/modules/command-menu-item/display/utils/translateStandardCommandMenuItemLabel.ts
+msgid "New {objectLabel}"
+msgstr "New {objectLabel}"
