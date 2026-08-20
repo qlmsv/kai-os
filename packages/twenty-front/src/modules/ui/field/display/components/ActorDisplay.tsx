@@ -19,6 +19,7 @@ import {
   type IconComponent,
 } from 'twenty-ui/icon';
 import { getAbsoluteImageUrl } from '~/utils/image/getAbsoluteImageUrl';
+import { translateSeededLabel } from '~/utils/i18n/translateSeededLabel';
 
 type ActorDisplayProps = Partial<FieldActorValue> & {
   avatarUrl?: string | null;
@@ -85,9 +86,15 @@ export const ActorDisplay = ({
 }: ActorDisplayProps) => {
   const LeftIcon = getLeftIcon({ source, context });
 
+  // Records seeded by the engine carry the literal actor name "System". Only
+  // that source is localized — every other actor name is a person or an
+  // integration and must be shown exactly as stored.
+  const label =
+    source === 'SYSTEM' ? translateSeededLabel(name ?? '') : (name ?? '');
+
   return (
     <Chip
-      label={name ?? ''}
+      label={label}
       clickable={false}
       emptyLabel={t`Untitled`}
       variant={ChipVariant.Transparent}
