@@ -21755,3 +21755,219 @@ msgstr "Версии"
 #: src/modules/command-menu-item/display/utils/translateStandardCommandMenuItemLabel.ts
 msgid "New {objectLabel}"
 msgstr "Создать: {objectLabel}"
+
+#: src/modules/command-menu-item/utils/standardCommandMenuItemMessages.ts
+msgid "Activate Workflow"
+msgstr "Активировать процесс"
+
+#: src/modules/command-menu-item/utils/standardCommandMenuItemMessages.ts
+msgid "Add a Node"
+msgstr "Добавить шаг"
+
+#: src/modules/command-menu-item/utils/standardCommandMenuItemMessages.ts
+msgid "Add to Favorites"
+msgstr "В избранное"
+
+#: src/modules/command-menu-item/utils/standardCommandMenuItemMessages.ts
+msgid "Campaign"
+msgstr "Кампания"
+
+#: src/modules/command-menu-item/utils/standardCommandMenuItemMessages.ts
+msgid "Cancel Edition"
+msgstr "Отменить правку"
+
+#: src/modules/command-menu-item/utils/standardCommandMenuItemMessages.ts
+msgid "Compose Campaign"
+msgstr "Создать кампанию"
+
+#: src/modules/command-menu-item/utils/standardCommandMenuItemMessages.ts
+msgid "Compose Email"
+msgstr "Написать письмо"
+
+#: src/modules/command-menu-item/utils/standardCommandMenuItemMessages.ts
+msgid "Create View"
+msgstr "Создать представление"
+
+#: src/modules/command-menu-item/utils/standardCommandMenuItemMessages.ts
+msgid "Create new Campaign"
+msgstr "Создать кампанию"
+
+#: src/modules/command-menu-item/utils/standardCommandMenuItemMessages.ts
+msgid "Deactivate Workflow"
+msgstr "Отключить процесс"
+
+#: src/modules/command-menu-item/utils/standardCommandMenuItemMessages.ts
+msgid "Design"
+msgstr "Оформление"
+
+#: src/modules/command-menu-item/utils/standardCommandMenuItemMessages.ts
+msgid "Destroy"
+msgstr "Удалить безвозвратно"
+
+#: src/modules/command-menu-item/utils/standardCommandMenuItemMessages.ts
+msgid "Discard Draft"
+msgstr "Отменить черновик"
+
+#: src/modules/command-menu-item/utils/standardCommandMenuItemMessages.ts
+msgid "Domains"
+msgstr "Домены"
+
+#: src/modules/command-menu-item/utils/standardCommandMenuItemMessages.ts
+msgid "Duplicate Dashboard"
+msgstr "Дублировать дашборд"
+
+#: src/modules/command-menu-item/utils/standardCommandMenuItemMessages.ts
+msgid "Duplicate Workflow"
+msgstr "Дублировать процесс"
+
+#: src/modules/command-menu-item/utils/standardCommandMenuItemMessages.ts
+msgid "Edit Dashboard"
+msgstr "Редактировать дашборд"
+
+#: src/modules/command-menu-item/utils/standardCommandMenuItemMessages.ts
+msgid "Edit Layout"
+msgstr "Редактировать макет"
+
+#: src/modules/command-menu-item/utils/standardCommandMenuItemMessages.ts
+msgid "Export View"
+msgstr "Экспортировать представление"
+
+#: src/modules/command-menu-item/utils/standardCommandMenuItemMessages.ts
+msgid "Export to PDF"
+msgstr "Экспорт в PDF"
+
+#: src/modules/command-menu-item/utils/standardCommandMenuItemMessages.ts
+msgid "Go to AI Settings"
+msgstr "Перейти к настройкам ИИ"
+
+#: src/modules/command-menu-item/utils/standardCommandMenuItemMessages.ts
+msgid "Go to Accounts Settings"
+msgstr "Перейти к настройкам учётных записей"
+
+#: src/modules/command-menu-item/utils/standardCommandMenuItemMessages.ts
+msgid "Go to Admin Panel Settings"
+msgstr "Перейти в панель администратора"
+
+#: src/modules/command-menu-item/utils/standardCommandMenuItemMessages.ts
+msgid "Go to Apps Settings"
+msgstr "Перейти к настройкам приложений"
+
+#: src/modules/command-menu-item/utils/standardCommandMenuItemMessages.ts
+msgid "Go to Billing Settings"
+msgstr "Перейти к настройкам оплаты"
+
+#: src/modules/command-menu-item/utils/standardCommandMenuItemMessages.ts
+msgid "Go to Calendars Settings"
+msgstr "Перейти к настройкам календарей"
+
+#: src/modules/command-menu-item/utils/standardCommandMenuItemMessages.ts
+msgid "Go to Community Settings"
+msgstr "Перейти к настройкам сообщества"
+
+#: src/modules/command-menu-item/utils/standardCommandMenuItemMessages.ts
+msgid "Go to Data Model Settings"
+msgstr "Перейти к модели данных"
+
+#: src/modules/command-menu-item/utils/standardCommandMenuItemMessages.ts
+msgid "Go to Domains Settings"
+msgstr "Перейти к настройкам доменов"
+
+#: src/modules/command-menu-item/utils/standardCommandMenuItemMessages.ts
+msgid "Go to Emails Settings"
+msgstr "Перейти к настройкам почты"
+
+#: src/modules/command-menu-item/utils/standardCommandMenuItemMessages.ts
+msgid "Go to Experience Settings"
+msgstr "Перейти к настройкам интерфейса"
+
+#: src/modules/command-menu-item/utils/standardCommandMenuItemMessages.ts
+msgid "Go to General Settings"
+msgstr "Перейти к общим настройкам"
+
+#: src/modules/command-menu-item/utils/standardCommandMenuItemMessages.ts
+msgid "Go to MCP & APIs Settings"
+msgstr "Перейти к настройкам MCP и API"
+
+#: src/modules/command-menu-item/utils/standardCommandMenuItemMessages.ts
+msgid "Go to Members Settings"
+msgstr "Перейти к настройкам участников"
+
+#: src/modules/command-menu-item/utils/standardCommandMenuItemMessages.ts
+msgid "Go to Roles Settings"
+msgstr "Перейти к настройкам ролей"
+
+#: src/modules/command-menu-item/utils/standardCommandMenuItemMessages.ts
+msgid "Go to Security Settings"
+msgstr "Перейти к настройкам безопасности"
+
+#: src/modules/command-menu-item/utils/standardCommandMenuItemMessages.ts
+msgid "Hide deleted"
+msgstr "Скрыть удалённые"
+
+#: src/modules/command-menu-item/utils/standardCommandMenuItemMessages.ts
+msgid "New Campaign"
+msgstr "Новая кампания"
+
+#: src/modules/command-menu-item/utils/standardCommandMenuItemMessages.ts
+msgid "Previous AI Chats"
+msgstr "Прошлые переписки с ИИ"
+
+#: src/modules/command-menu-item/utils/standardCommandMenuItemMessages.ts
+msgid "Remove from Favorites"
+msgstr "Убрать из избранного"
+
+#: src/modules/command-menu-item/utils/standardCommandMenuItemMessages.ts
+msgid "Save Dashboard"
+msgstr "Сохранить дашборд"
+
+#: src/modules/command-menu-item/utils/standardCommandMenuItemMessages.ts
+msgid "See Active Version"
+msgstr "Открыть активную версию"
+
+#: src/modules/command-menu-item/utils/standardCommandMenuItemMessages.ts
+msgid "See Runs"
+msgstr "Открыть запуски"
+
+#: src/modules/command-menu-item/utils/standardCommandMenuItemMessages.ts
+msgid "See Version"
+msgstr "Открыть версию"
+
+#: src/modules/command-menu-item/utils/standardCommandMenuItemMessages.ts
+msgid "See Versions"
+msgstr "Открыть версии"
+
+#: src/modules/command-menu-item/utils/standardCommandMenuItemMessages.ts
+msgid "See Versions History"
+msgstr "История версий"
+
+#: src/modules/command-menu-item/utils/standardCommandMenuItemMessages.ts
+msgid "See Workflow"
+msgstr "Открыть процесс"
+
+#: src/modules/command-menu-item/utils/standardCommandMenuItemMessages.ts
+msgid "Send Campaign"
+msgstr "Отправить кампанию"
+
+#: src/modules/command-menu-item/utils/standardCommandMenuItemMessages.ts
+msgid "Stop"
+msgstr "Остановить"
+
+#: src/modules/command-menu-item/utils/standardCommandMenuItemMessages.ts
+msgid "Test Workflow"
+msgstr "Проверить процесс"
+
+#: src/modules/command-menu-item/utils/standardCommandMenuItemMessages.ts
+msgid "Tidy up"
+msgstr "Упорядочить"
+
+#: src/modules/command-menu-item/utils/standardCommandMenuItemMessages.ts
+msgid "Tidy up Workflow"
+msgstr "Упорядочить процесс"
+
+#: src/modules/command-menu-item/utils/standardCommandMenuItemMessages.ts
+msgid "Use as Draft"
+msgstr "Использовать как черновик"
+
+#: src/modules/command-menu-item/utils/standardCommandMenuItemMessages.ts
+msgid "View Previous AI Chats"
+msgstr "Открыть прошлые переписки с ИИ"

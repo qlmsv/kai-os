@@ -21752,3 +21752,219 @@ msgstr "Versions"
 #: src/modules/command-menu-item/display/utils/translateStandardCommandMenuItemLabel.ts
 msgid "New {objectLabel}"
 msgstr "New {objectLabel}"
+
+#: src/modules/command-menu-item/utils/standardCommandMenuItemMessages.ts
+msgid "Activate Workflow"
+msgstr "Activate Workflow"
+
+#: src/modules/command-menu-item/utils/standardCommandMenuItemMessages.ts
+msgid "Add a Node"
+msgstr "Add a Node"
+
+#: src/modules/command-menu-item/utils/standardCommandMenuItemMessages.ts
+msgid "Add to Favorites"
+msgstr "Add to Favorites"
+
+#: src/modules/command-menu-item/utils/standardCommandMenuItemMessages.ts
+msgid "Campaign"
+msgstr "Campaign"
+
+#: src/modules/command-menu-item/utils/standardCommandMenuItemMessages.ts
+msgid "Cancel Edition"
+msgstr "Cancel Edition"
+
+#: src/modules/command-menu-item/utils/standardCommandMenuItemMessages.ts
+msgid "Compose Campaign"
+msgstr "Compose Campaign"
+
+#: src/modules/command-menu-item/utils/standardCommandMenuItemMessages.ts
+msgid "Compose Email"
+msgstr "Compose Email"
+
+#: src/modules/command-menu-item/utils/standardCommandMenuItemMessages.ts
+msgid "Create View"
+msgstr "Create View"
+
+#: src/modules/command-menu-item/utils/standardCommandMenuItemMessages.ts
+msgid "Create new Campaign"
+msgstr "Create new Campaign"
+
+#: src/modules/command-menu-item/utils/standardCommandMenuItemMessages.ts
+msgid "Deactivate Workflow"
+msgstr "Deactivate Workflow"
+
+#: src/modules/command-menu-item/utils/standardCommandMenuItemMessages.ts
+msgid "Design"
+msgstr "Design"
+
+#: src/modules/command-menu-item/utils/standardCommandMenuItemMessages.ts
+msgid "Destroy"
+msgstr "Destroy"
+
+#: src/modules/command-menu-item/utils/standardCommandMenuItemMessages.ts
+msgid "Discard Draft"
+msgstr "Discard Draft"
+
+#: src/modules/command-menu-item/utils/standardCommandMenuItemMessages.ts
+msgid "Domains"
+msgstr "Domains"
+
+#: src/modules/command-menu-item/utils/standardCommandMenuItemMessages.ts
+msgid "Duplicate Dashboard"
+msgstr "Duplicate Dashboard"
+
+#: src/modules/command-menu-item/utils/standardCommandMenuItemMessages.ts
+msgid "Duplicate Workflow"
+msgstr "Duplicate Workflow"
+
+#: src/modules/command-menu-item/utils/standardCommandMenuItemMessages.ts
+msgid "Edit Dashboard"
+msgstr "Edit Dashboard"
+
+#: src/modules/command-menu-item/utils/standardCommandMenuItemMessages.ts
+msgid "Edit Layout"
+msgstr "Edit Layout"
+
+#: src/modules/command-menu-item/utils/standardCommandMenuItemMessages.ts
+msgid "Export View"
+msgstr "Export View"
+
+#: src/modules/command-menu-item/utils/standardCommandMenuItemMessages.ts
+msgid "Export to PDF"
+msgstr "Export to PDF"
+
+#: src/modules/command-menu-item/utils/standardCommandMenuItemMessages.ts
+msgid "Go to AI Settings"
+msgstr "Go to AI Settings"
+
+#: src/modules/command-menu-item/utils/standardCommandMenuItemMessages.ts
+msgid "Go to Accounts Settings"
+msgstr "Go to Accounts Settings"
+
+#: src/modules/command-menu-item/utils/standardCommandMenuItemMessages.ts
+msgid "Go to Admin Panel Settings"
+msgstr "Go to Admin Panel Settings"
+
+#: src/modules/command-menu-item/utils/standardCommandMenuItemMessages.ts
+msgid "Go to Apps Settings"
+msgstr "Go to Apps Settings"
+
+#: src/modules/command-menu-item/utils/standardCommandMenuItemMessages.ts
+msgid "Go to Billing Settings"
+msgstr "Go to Billing Settings"
+
+#: src/modules/command-menu-item/utils/standardCommandMenuItemMessages.ts
+msgid "Go to Calendars Settings"
+msgstr "Go to Calendars Settings"
+
+#: src/modules/command-menu-item/utils/standardCommandMenuItemMessages.ts
+msgid "Go to Community Settings"
+msgstr "Go to Community Settings"
+
+#: src/modules/command-menu-item/utils/standardCommandMenuItemMessages.ts
+msgid "Go to Data Model Settings"
+msgstr "Go to Data Model Settings"
+
+#: src/modules/command-menu-item/utils/standardCommandMenuItemMessages.ts
+msgid "Go to Domains Settings"
+msgstr "Go to Domains Settings"
+
+#: src/modules/command-menu-item/utils/standardCommandMenuItemMessages.ts
+msgid "Go to Emails Settings"
+msgstr "Go to Emails Settings"
+
+#: src/modules/command-menu-item/utils/standardCommandMenuItemMessages.ts
+msgid "Go to Experience Settings"
+msgstr "Go to Experience Settings"
+
+#: src/modules/command-menu-item/utils/standardCommandMenuItemMessages.ts
+msgid "Go to General Settings"
+msgstr "Go to General Settings"
+
+#: src/modules/command-menu-item/utils/standardCommandMenuItemMessages.ts
+msgid "Go to MCP & APIs Settings"
+msgstr "Go to MCP & APIs Settings"
+
+#: src/modules/command-menu-item/utils/standardCommandMenuItemMessages.ts
+msgid "Go to Members Settings"
+msgstr "Go to Members Settings"
+
+#: src/modules/command-menu-item/utils/standardCommandMenuItemMessages.ts
+msgid "Go to Roles Settings"
+msgstr "Go to Roles Settings"
+
+#: src/modules/command-menu-item/utils/standardCommandMenuItemMessages.ts
+msgid "Go to Security Settings"
+msgstr "Go to Security Settings"
+
+#: src/modules/command-menu-item/utils/standardCommandMenuItemMessages.ts
+msgid "Hide deleted"
+msgstr "Hide deleted"
+
+#: src/modules/command-menu-item/utils/standardCommandMenuItemMessages.ts
+msgid "New Campaign"
+msgstr "New Campaign"
+
+#: src/modules/command-menu-item/utils/standardCommandMenuItemMessages.ts
+msgid "Previous AI Chats"
+msgstr "Previous AI Chats"
+
+#: src/modules/command-menu-item/utils/standardCommandMenuItemMessages.ts
+msgid "Remove from Favorites"
+msgstr "Remove from Favorites"
+
+#: src/modules/command-menu-item/utils/standardCommandMenuItemMessages.ts
+msgid "Save Dashboard"
+msgstr "Save Dashboard"
+
+#: src/modules/command-menu-item/utils/standardCommandMenuItemMessages.ts
+msgid "See Active Version"
+msgstr "See Active Version"
+
+#: src/modules/command-menu-item/utils/standardCommandMenuItemMessages.ts
+msgid "See Runs"
+msgstr "See Runs"
+
+#: src/modules/command-menu-item/utils/standardCommandMenuItemMessages.ts
+msgid "See Version"
+msgstr "See Version"
+
+#: src/modules/command-menu-item/utils/standardCommandMenuItemMessages.ts
+msgid "See Versions"
+msgstr "See Versions"
+
+#: src/modules/command-menu-item/utils/standardCommandMenuItemMessages.ts
+msgid "See Versions History"
+msgstr "See Versions History"
+
+#: src/modules/command-menu-item/utils/standardCommandMenuItemMessages.ts
+msgid "See Workflow"
+msgstr "See Workflow"
+
+#: src/modules/command-menu-item/utils/standardCommandMenuItemMessages.ts
+msgid "Send Campaign"
+msgstr "Send Campaign"
+
+#: src/modules/command-menu-item/utils/standardCommandMenuItemMessages.ts
+msgid "Stop"
+msgstr "Stop"
+
+#: src/modules/command-menu-item/utils/standardCommandMenuItemMessages.ts
+msgid "Test Workflow"
+msgstr "Test Workflow"
+
+#: src/modules/command-menu-item/utils/standardCommandMenuItemMessages.ts
+msgid "Tidy up"
+msgstr "Tidy up"
+
+#: src/modules/command-menu-item/utils/standardCommandMenuItemMessages.ts
+msgid "Tidy up Workflow"
+msgstr "Tidy up Workflow"
+
+#: src/modules/command-menu-item/utils/standardCommandMenuItemMessages.ts
+msgid "Use as Draft"
+msgstr "Use as Draft"
+
+#: src/modules/command-menu-item/utils/standardCommandMenuItemMessages.ts
+msgid "View Previous AI Chats"
+msgstr "View Previous AI Chats"
