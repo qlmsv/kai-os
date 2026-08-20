@@ -10,6 +10,7 @@ import { WidgetCard } from '@/page-layout/widgets/widget-card/components/WidgetC
 import { WidgetCardContent } from '@/page-layout/widgets/widget-card/components/WidgetCardContent';
 import { WidgetCardHeader } from '@/page-layout/widgets/widget-card/components/WidgetCardHeader';
 import { styled } from '@linaria/react';
+import { translateSeededLabel } from '~/utils/i18n/translateSeededLabel';
 import { type MouseEvent, useContext } from 'react';
 import { ErrorBoundary } from 'react-error-boundary';
 import { IconLock } from 'twenty-ui/icon';
@@ -100,7 +101,7 @@ export const WidgetCardShell = ({
             isResizing={isResizing}
             isReorderEnabled={isReorderEnabled}
             isDeletingWidgetEnabled={isDeletingWidgetEnabled}
-            title={widget.title}
+            title={translateSeededLabel(widget.title)}
             onRemove={onRemove}
             actions={actions}
             forbiddenDisplay={

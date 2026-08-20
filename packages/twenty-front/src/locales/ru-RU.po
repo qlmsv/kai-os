@@ -21971,3 +21971,79 @@ msgstr "Использовать как черновик"
 #: src/modules/command-menu-item/utils/standardCommandMenuItemMessages.ts
 msgid "View Previous AI Chats"
 msgstr "Открыть прошлые переписки с ИИ"
+
+#: src/utils/i18n/translateSeededLabel.ts
+msgid "Business"
+msgstr "Бизнес"
+
+#: src/utils/i18n/translateSeededLabel.ts
+msgid "Calendar Event Participants"
+msgstr "Участники встреч"
+
+#: src/utils/i18n/translateSeededLabel.ts
+msgid "Contact"
+msgstr "Контакты"
+
+#: src/utils/i18n/translateSeededLabel.ts
+msgid "Creation date"
+msgstr "Дата создания"
+
+#: src/utils/i18n/translateSeededLabel.ts
+msgid "Deal"
+msgstr "Сделка"
+
+#: src/utils/i18n/translateSeededLabel.ts
+msgid "Deleted at"
+msgstr "Удалено"
+
+#: src/utils/i18n/translateSeededLabel.ts
+msgid "Events"
+msgstr "События"
+
+#: src/utils/i18n/translateSeededLabel.ts
+msgid "Files"
+msgstr "Файлы"
+
+#: src/utils/i18n/translateSeededLabel.ts
+msgid "Id"
+msgstr "Идентификатор"
+
+#: src/utils/i18n/translateSeededLabel.ts
+msgid "Last update"
+msgstr "Обновлено"
+
+#: src/utils/i18n/translateSeededLabel.ts
+msgid "Message Participants"
+msgstr "Участники переписки"
+
+#: src/utils/i18n/translateSeededLabel.ts
+msgid "Note"
+msgstr "Заметка"
+
+#: src/utils/i18n/translateSeededLabel.ts
+msgid "Notes"
+msgstr "Заметки"
+
+#: src/utils/i18n/translateSeededLabel.ts
+msgid "Social"
+msgstr "Соцсети"
+
+#: src/utils/i18n/translateSeededLabel.ts
+msgid "Task"
+msgstr "Задача"
+
+#: src/utils/i18n/translateSeededLabel.ts
+msgid "Tasks"
+msgstr "Задачи"
+
+#: src/utils/i18n/translateSeededLabel.ts
+msgid "Thread"
+msgstr "Переписка"
+
+#: src/utils/i18n/translateSeededLabel.ts
+msgid "Timeline Activities"
+msgstr "События на шкале"
+
+#: src/utils/i18n/translateSeededLabel.ts
+msgid "Work"
+msgstr "Работа"

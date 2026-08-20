@@ -21968,3 +21968,79 @@ msgstr "Use as Draft"
 #: src/modules/command-menu-item/utils/standardCommandMenuItemMessages.ts
 msgid "View Previous AI Chats"
 msgstr "View Previous AI Chats"
+
+#: src/utils/i18n/translateSeededLabel.ts
+msgid "Business"
+msgstr "Business"
+
+#: src/utils/i18n/translateSeededLabel.ts
+msgid "Calendar Event Participants"
+msgstr "Calendar Event Participants"
+
+#: src/utils/i18n/translateSeededLabel.ts
+msgid "Contact"
+msgstr "Contact"
+
+#: src/utils/i18n/translateSeededLabel.ts
+msgid "Creation date"
+msgstr "Creation date"
+
+#: src/utils/i18n/translateSeededLabel.ts
+msgid "Deal"
+msgstr "Deal"
+
+#: src/utils/i18n/translateSeededLabel.ts
+msgid "Deleted at"
+msgstr "Deleted at"
+
+#: src/utils/i18n/translateSeededLabel.ts
+msgid "Events"
+msgstr "Events"
+
+#: src/utils/i18n/translateSeededLabel.ts
+msgid "Files"
+msgstr "Files"
+
+#: src/utils/i18n/translateSeededLabel.ts
+msgid "Id"
+msgstr "Id"
+
+#: src/utils/i18n/translateSeededLabel.ts
+msgid "Last update"
+msgstr "Last update"
+
+#: src/utils/i18n/translateSeededLabel.ts
+msgid "Message Participants"
+msgstr "Message Participants"
+
+#: src/utils/i18n/translateSeededLabel.ts
+msgid "Note"
+msgstr "Note"
+
+#: src/utils/i18n/translateSeededLabel.ts
+msgid "Notes"
+msgstr "Notes"
+
+#: src/utils/i18n/translateSeededLabel.ts
+msgid "Social"
+msgstr "Social"
+
+#: src/utils/i18n/translateSeededLabel.ts
+msgid "Task"
+msgstr "Task"
+
+#: src/utils/i18n/translateSeededLabel.ts
+msgid "Tasks"
+msgstr "Tasks"
+
+#: src/utils/i18n/translateSeededLabel.ts
+msgid "Thread"
+msgstr "Thread"
+
+#: src/utils/i18n/translateSeededLabel.ts
+msgid "Timeline Activities"
+msgstr "Timeline Activities"
+
+#: src/utils/i18n/translateSeededLabel.ts
+msgid "Work"
+msgstr "Work"

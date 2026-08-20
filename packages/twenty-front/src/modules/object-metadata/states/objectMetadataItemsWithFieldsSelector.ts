@@ -9,6 +9,7 @@ import { getObjectPermissionsFromMapByObjectMetadataId } from '@/settings/roles/
 import { createAtomSelector } from '@/ui/utilities/state/jotai/utils/createAtomSelector';
 import { type ObjectPermissions } from 'twenty-shared/types';
 import { isDefined } from 'twenty-shared/utils';
+import { translateSeededLabel } from '~/utils/i18n/translateSeededLabel';
 
 export const objectMetadataItemsWithFieldsSelector = createAtomSelector<
   EnrichedObjectMetadataItem[]
@@ -61,7 +62,16 @@ export const objectMetadataItemsWithFieldsSelector = createAtomSelector<
       ) ?? {};
 
     return flatObjects.map((flatObject) => {
-      const fields = fieldsByObjectId.get(flatObject.id) ?? [];
+      // System fields ("Creation date", "Created by", …) and system-managed
+      // relations are seeded in English and cannot be renamed through the
+      // metadata API, so their labels are localized here. A label the user has
+      // overridden already arrives translated and is left untouched, since the
+      // lookup only matches the known seeded names.
+      const fields = (fieldsByObjectId.get(flatObject.id) ?? []).map((field) =>
+        field.label === translateSeededLabel(field.label)
+          ? field
+          : { ...field, label: translateSeededLabel(field.label) },
+      );
       const indexMetadatas = indexesByObjectId.get(flatObject.id) ?? [];
 
       const objectPermissions = getObjectPermissionsFromMapByObjectMetadataId({

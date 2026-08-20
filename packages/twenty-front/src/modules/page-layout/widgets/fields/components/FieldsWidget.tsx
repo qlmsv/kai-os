@@ -22,6 +22,7 @@ import {
 } from 'twenty-ui/feedback';
 import { themeCssVariables } from 'twenty-ui/theme-constants';
 import { type FieldsConfiguration } from '~/generated-metadata/graphql';
+import { translateSeededLabel } from '~/utils/i18n/translateSeededLabel';
 
 const StyledContainer = styled.div`
   box-sizing: border-box;
@@ -142,7 +143,10 @@ export const FieldsWidget = ({ widget }: FieldsWidgetProps) => {
             </StyledInlineFieldsPropertyBox>
           ) : (
             groups.map((group) => (
-              <FieldsWidgetGroupContainer key={group.id} title={group.name}>
+              <FieldsWidgetGroupContainer
+                key={group.id}
+                title={translateSeededLabel(group.name)}
+              >
                 <StyledPropertyBox>
                   <FieldsWidgetFieldList
                     fields={group.fields}
